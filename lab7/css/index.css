@@ -1,0 +1,36 @@
+div#photos {
+  float: right;
+}
+
+img {
+  width: 450px;
+  margin: 10px;
+  border-style: outset;
+}
+
+body {
+  margin-left: 45px;
+  margin-right: 45px;
+  margin-top: 45px;
+  margin-bottom: 45px;
+  background-color: orange;
+  border-stye: inset;
+  padding: 25px;
+}
+
+div#link {
+  border-style: dashed;
+  border-radius: 10px;
+  margin-right: 490px;
+  text-align: center;
+  front-style: Arial, Helvetica, Sans-Serif;
+  front size: 20px;
+}
+
+h1 {
+  font -style: italic;
+  font-size: 50px;
+  bacgrone-color: white;
+  margin-right: 490px;
+  text-allign: center;
+}
