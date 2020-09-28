@@ -1,0 +1,45 @@
+div#photo {
+  floatright
+}
+
+img {
+  width: 500px;
+}
+
+span {
+  color: red;
+  font-weight: bolder;
+  font-style: italic;
+  font-size: 15px;
+}
+
+div#baller {
+  font-size: 90px;
+  font-weight: bolder;
+  font-style: italic;
+  font-family: cursive;
+  text-align: center;
+  border-style: dotted;
+  margin-right: 1300px;
+  background-color: gold;
+}
+
+h1 {
+  font-size: 30px;
+  border-style: dashed;
+  background-color: orange;
+  margin-right: 1300px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 30px;
+  border-style: dashed;
+  background-color: orange;
+  margin-right: 1300px;
+  text-align: center;
+}
+
+P {
+  font-size: 20px
+}
