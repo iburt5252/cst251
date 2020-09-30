@@ -1,7 +1,9 @@
+div#photo {
+  floatright
+}
+
 img {
-  max-width: 400px;
-  float: right;
-  margin: 20px;
+  width: 400px;
 }
 
 body {
