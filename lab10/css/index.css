@@ -6,6 +6,27 @@ body {
   background-color: green;
 }
 
+h1 {
+  font-family: "Address Sans Pro Xt";
+  font-size: 48px;
+  margin-bottom: -10px;
+  margin-block-start: 0.67em;
+  margin-block-end: 0.67em;
+  color: yellow;
+  text-shadow: 2px 2px black;
+}
+
+h2 {
+  font-family: "Address Sans Pro Xt";
+    font-size: 48px;
+    margin-bottom: -10px;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    color: yellow;
+    text-shadow: 2px 2px black;
+  }
+
+
 div#content {
   margin: 40px;
   padding: 20px;
@@ -20,8 +41,7 @@ p#purpose{
 p {
   margin-left: 30px;
   font-size: 20px;
-  font-family: "Arial MT", cursive; sans-serif;
-
+  font-family: "Dubai Mediam", cursive; sans-serif;
 }
 
 p#h2 {
