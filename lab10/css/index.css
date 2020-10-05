@@ -1,0 +1,61 @@
+div#photo {
+  floatright
+}
+
+body {
+  background-color: green;
+}
+
+div#content {
+  margin: 40px;
+  padding: 20px;
+  border: dashed 20px lightgreen;
+  background-color: lightgreen;
+}
+
+p#purpose{
+  margin-left: 30px
+}
+
+p {
+  margin-left: 30px;
+  font-size: 20px;
+  font-family: "Arial MT", cursive; sans-serif;
+
+}
+
+p#h2 {
+  padding-right: 500px
+}
+
+span#bigword {
+  font-family: serif;
+  font-style: italic;
+  font-weight: bolder;
+  font-size: 30px;
+}
+
+img#fitted {
+  width: 280px;
+  margin-left auto;
+  margin-right: auto;
+  display: block;
+  padding: 10px 10px 10px 10px;
+}
+
+div#myselfie {
+  width: 300px;
+  float: right;
+  margin-right: 40px;
+  margin-top: 20px;
+  background-color: forestgreen;
+}
+
+p#myselfiecaption {
+  text-align: center;
+  text-decoration: underline;
+  margin-top: -0px;
+  margin-right: -40px;
+  margin-left: -30px;
+  font-family: monospace;
+}
