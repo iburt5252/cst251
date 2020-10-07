@@ -1,0 +1,73 @@
+main#content {
+background-color: rgb(255, 255, 128);
+max-width: 1110px;
+border: 1px solid darkblue;
+}
+
+nav#links {
+background-color: red;
+position: fixed;
+right: 0px;
+bottom: 0px;
+display: inline-block;
+width: 33%;
+min-width: 250px;
+text-align: center;
+}
+
+p#linktitle {
+font-size: 50px;
+margin-top: -10px;
+padding-left: 20px;
+padding-top: 20px;
+margin-bottom: -10px;
+text-align: center;
+}
+
+#hyperlink {
+font-size: 40px;
+font-family: Georgia;
+text-align: center;
+}
+
+aside#sidebar {
+  background-color: tan;
+  display: inline-block;
+  width: 33%;
+  min-width: 250px;
+  position: absolute;
+  right: 0px;
+  border: 1px solid;
+}
+
+p#ish {
+font-size: 30px;
+text-align: center;
+}
+
+p#ishsfacts {
+font-size: 20px;
+text-align: center;
+padding-left: 5px;
+padding-right: 5px;
+}
+
+h1 {
+font-family: fantasy;
+padding-left: 50px;
+text-shadow: 2px 2px white;
+text-transform: uppercase;
+}
+
+h2 {
+font-family: fantasy;
+padding-left: 50px;
+text-shadow: 2px 2px white;
+text-transform: uppercase;
+}
+
+div#favoritesneakers {
+background-color: lightgreen;
+border-color: cyan;
+border-width: thin;
+}
