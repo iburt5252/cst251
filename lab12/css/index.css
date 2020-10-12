@@ -1,0 +1,47 @@
+div#content {
+  background-color: orange;
+}
+
+body {
+  background-color: #5e0112;
+}
+
+img {
+  width: 150px;
+}
+
+div#floated {
+  width: 30%;
+  float: right;
+  background-color: grey;
+  text-align: center;
+  overflow: scroll;
+  height: 400px;
+}
+
+div#center-horz {
+  width: 30%;
+  text-align: center;
+  background-color: grey;
+  float: left;
+  height: 210px;
+}
+
+p#strawberryshake {
+  font-size: 20px;
+}
+
+div#center-img {
+  width: 30%;
+  background-color: red;
+  text-align: center;
+}
+
+div#center-both {
+  width: 30%;
+  background-color: red;
+  text-align: center;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+}
