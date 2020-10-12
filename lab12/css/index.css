@@ -1,5 +1,6 @@
 div#content {
   background-color: orange;
+  border: dashed 35px #575cff;
 }
 
 body {
@@ -7,12 +8,13 @@ body {
 }
 
 img {
-  width: 150px;
+  width: 170px;
 }
 
 div#floated {
   width: 30%;
   float: right;
+  font-size: 20px;
   background-color: grey;
   text-align: center;
   overflow: scroll;
@@ -44,4 +46,26 @@ div#center-both {
   position: relative;
   margin-left: auto;
   margin-right: auto;
+}
+
+h1 {
+  font-family: fantasy;
+  padding-left: 10px;
+  padding-top: 10px;
+  text-shadow: 2px 2px white;
+  text-transform: uppercase;
+}
+
+h2 {
+  font-family: fantasy;
+  padding-left: 10px;
+  text-shadow: 2px 2px white;
+  text-transform: uppercase;
+}
+
+p {
+  color: #48044a;
+  font-family: "Poppins";
+  font-size: 20px;
+  padding-left: 10px
 }
