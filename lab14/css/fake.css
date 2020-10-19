@@ -1,0 +1,95 @@
+body {
+  color: white;
+  border-style: inset;
+}
+
+div#andre {
+  position: absolute;
+  top: 30px;
+  left: 200px;
+}
+
+p#andre {
+  color: #454545;
+  font-family: "Open Sans", sans-serif;
+  font-size: 30px;
+}
+
+div#work {
+  position: absolute;
+  top: 60px;
+  right: 400px;
+}
+
+p#work {
+  color: #454545;
+  font-family: "Open Sans", sans-serif;
+}
+
+div#me {
+  position: absolute;
+  top: 60px;
+  right: 315px;
+}
+
+p#me {
+  color: #454545;
+  font-family: "Open Sans", sans-serif;
+}
+
+div#almost {
+  position: absolute;
+  top: 60px;
+  right: 200px;
+}
+
+p#almost {
+  color: #454545;
+  font-family: "Open Sans", sans-serif;
+}
+
+div#image {
+  text-align: center;
+  margin-top: 100px;
+}
+
+div#two {
+  position: absolute;
+  top: 500px;
+  left: 140px;
+}
+
+p#two {
+  color: black;
+  font-family: cursive;
+  font-size: 40px;
+}
+
+div#simple {
+  position: absolute;
+  top: 425px;
+  left: 160px;
+  z-index: 10;
+}
+
+p#simple {
+  color: black;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  font-size: 140px;
+}
+
+div#tab {
+  position: absolute;
+  top: 375px;
+  right: 100px;
+}
+
+p#tab {
+  color: #B5B5B5;
+  font-size: 50px;
+}
+
+span#blacktab {
+  color: black;
+}
