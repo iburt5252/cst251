@@ -5,6 +5,7 @@ body {
 h1, h2, p, a#hyperlink {
   color: yellow;
   text-shadow: 0 0 20px black;
+  text-align: center;
 }
 
 div#foreword {
