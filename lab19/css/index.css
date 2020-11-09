@@ -1,0 +1,10 @@
+div.col {
+  main-height: 200px;
+  text-aligh: center;
+  border: solid 2px black;
+  min-width: 200px;
+}
+
+div.row {
+  padding: 10px;
+}
