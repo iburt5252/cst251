@@ -1,0 +1,49 @@
+div#content {
+  background-color: green;
+  border: dashed 35px;
+  border-color: cyan;
+  padding-bottom: 80px;
+}
+
+body {
+  background-color: green;
+  border: dashed 35px #cyan;
+}
+
+h1 {
+  font-family: fangsong;
+  font-size: 45px;
+  font-style: italic;
+  padding: 10px;
+  color: pink;
+}
+
+h2 {
+  font-family: fangsong;
+  padding: 10px;
+  font-size: 30px;
+  color: pink;
+}
+
+p {
+  font-family: sans-serif;
+  color: pink;
+  padding: 10px;
+  margin-top: -30px;
+}
+
+img {
+  width: 165px;
+  padding: 14px;
+  float: left;
+  padding-bottom: 30px;
+  margin-left: 8px;
+}
+
+nav {
+  padding-bottom: 200px;
+}
+
+li {
+  float: right;
+}
